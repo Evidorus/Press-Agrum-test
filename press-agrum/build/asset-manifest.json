@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7ad32188.css",
+    "main.js": "/static/js/main.bb4c0be4.js",
+    "static/js/787.6922d1ff.chunk.js": "/static/js/787.6922d1ff.chunk.js",
+    "static/media/AdobeStock_290832686.jpeg": "/static/media/AdobeStock_290832686.cf48d4851ad0629bae60.jpeg",
+    "static/media/AdobeStock_314822427.jpeg": "/static/media/AdobeStock_314822427.9bcf63cac0bccebf6a04.jpeg",
+    "static/media/20210219_074912.jpg": "/static/media/20210219_074912.2d931cbfa34d00e7be69.jpg",
+    "static/media/20210219_074852.jpg": "/static/media/20210219_074852.afdda949628dbb3f6f9e.jpg",
+    "static/media/20210219_075153.jpg": "/static/media/20210219_075153.e7d46a35705f5bb78598.jpg",
+    "static/media/20210219_074917.jpg": "/static/media/20210219_074917.1eb486c1bff2838b95c9.jpg",
+    "index.html": "/index.html",
+    "main.7ad32188.css.map": "/static/css/main.7ad32188.css.map",
+    "main.bb4c0be4.js.map": "/static/js/main.bb4c0be4.js.map",
+    "787.6922d1ff.chunk.js.map": "/static/js/787.6922d1ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ad32188.css",
+    "static/js/main.bb4c0be4.js"
+  ]
+}
